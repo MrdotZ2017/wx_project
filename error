@@ -1,0 +1,68 @@
+2018-03-29 16:46:10 login.py[line:60] INFO Please press confirm on your phone.
+2018-03-29 16:46:15 login.py[line:70] INFO Loading the contact, this may take a little while.
+2018-03-29 16:46:15 login.py[line:80] INFO Login successfully as 密斯特Z
+2018-03-29 16:49:03 wx_friends_analy.py[line:52] ERROR readDb:数据执行失败:错误:  关系 "wc_friend_list" 不存在
+LINE 1: SELECT COUNT(1) FROM wc_friend_list LIMIT 1;
+                             ^
+
+2018-03-29 16:49:42 wx_friends_analy.py[line:52] ERROR readDb:数据执行失败:错误:  关系 "wc_friend_list" 不存在
+LINE 1: SELECT COUNT(1) FROM wc_friend_list LIMIT 1;
+                             ^
+
+2018-03-29 16:51:04 wx_friends_analy.py[line:53] ERROR readDb:数据执行失败:错误:  关系 "wc_friend_list" 不存在
+LINE 1: SELECT COUNT(1) FROM wc_friend_list LIMIT 1;
+                             ^
+
+2018-03-29 16:51:35 wx_friends_analy.py[line:54] ERROR readDb:数据执行失败:错误:  关系 "wc_friend_list" 不存在
+LINE 1: SELECT COUNT(1) FROM wc_friend_list LIMIT 1;
+                             ^
+
+2018-03-29 16:52:03 wx_friends_analy.py[line:54] ERROR readDb:数据执行失败:错误:  关系 "wc_friend_list" 不存在
+LINE 1: SELECT COUNT(1) FROM wc_friend_list LIMIT 1;
+                             ^
+
+2018-03-29 16:53:34 wx_friends_analy.py[line:55] ERROR readDb:数据执行失败:错误:  关系 "wc_friend_list" 不存在
+LINE 1: SELECT COUNT(1) FROM wc_friend_list LIMIT 1;
+                             ^
+
+2018-03-29 16:55:07 wx_friends_analy.py[line:55] ERROR readDb:数据执行失败:错误:  关系 "wc_friend_list" 不存在
+LINE 1: SELECT COUNT(1) FROM wc_friend_list LIMIT 1;
+                             ^
+
+2018-03-29 16:58:05 wx_friends_analy.py[line:33] ERROR writeDb:数据写入失败:'psycopg2.extensions.cursor' object has no attribute 'commit'
+2018-03-29 17:00:07 wx_friends_analy.py[line:34] ERROR writeDb:数据写入失败:'psycopg2.extensions.cursor' object has no attribute 'commit'
+2018-03-29 17:05:35 wx_friends_analy.py[line:34] ERROR writeDb:数据写入失败:'psycopg2.extensions.cursor' object has no attribute 'commit'
+2018-03-29 17:06:26 wx_friends_analy.py[line:35] ERROR writeDb:数据写入失败:'psycopg2.extensions.cursor' object has no attribute 'commit'
+2018-03-29 17:07:36 wx_friends_analy.py[line:35] ERROR writeDb:数据写入失败:'psycopg2.extensions.cursor' object has no attribute 'commit'
+2018-03-29 17:08:39 wx_friends_analy.py[line:35] ERROR writeDb:数据写入失败:'psycopg2.extensions.cursor' object has no attribute 'commit'
+2018-03-29 17:09:13 wx_friends_analy.py[line:35] ERROR writeDb:数据写入失败:'psycopg2.extensions.cursor' object has no attribute 'commit'
+2018-03-29 17:10:15 wx_friends_analy.py[line:36] ERROR writeDb:数据写入失败:'psycopg2.extensions.cursor' object has no attribute 'commit'
+2018-03-29 17:13:40 wx_friends_analy.py[line:36] ERROR writeDb:数据写入失败:错误:  语法错误 在 "<" 或附近的
+LINE 1: ...nd,Statues,WebWxPluginSwitch,HeadImgFlag) VALUES (<ContactLi...
+                                                             ^
+
+2018-03-29 17:13:40 wx_friends_analy.py[line:36] ERROR writeDb:数据写入失败:错误:  语法错误 在 "<" 或附近的
+LINE 1: ...atRoomId,KeyWord,EncryChatRoomId,IsOwner) VALUES (<ContactLi...
+                                                             ^
+
+2018-03-29 17:14:04 wx_friends_analy.py[line:36] ERROR writeDb:数据写入失败:错误:  语法错误 在 "<" 或附近的
+LINE 1: ...nd,Statues,WebWxPluginSwitch,HeadImgFlag) VALUES (<ContactLi...
+                                                             ^
+
+2018-03-29 17:14:04 wx_friends_analy.py[line:36] ERROR writeDb:数据写入失败:错误:  语法错误 在 "<" 或附近的
+LINE 1: ...atRoomId,KeyWord,EncryChatRoomId,IsOwner) VALUES (<ContactLi...
+                                                             ^
+
+2018-03-29 17:42:20 login.py[line:44] INFO Getting uuid of QR code.
+2018-03-29 17:42:20 login.py[line:47] INFO Downloading QR code.
+2018-03-29 17:42:21 login.py[line:50] INFO Please scan the QR code to log in.
+2018-03-29 17:42:34 login.py[line:60] INFO Please press confirm on your phone.
+2018-03-29 17:42:36 login.py[line:70] INFO Loading the contact, this may take a little while.
+2018-03-29 17:42:36 login.py[line:80] INFO Login successfully as 密斯特Z
+2018-03-30 14:41:59 login.py[line:60] INFO Please press confirm on your phone.
+2018-03-30 14:42:01 login.py[line:70] INFO Loading the contact, this may take a little while.
+2018-03-30 14:42:01 login.py[line:80] INFO Login successfully as 密斯特Z
+2018-03-30 14:42:02 wx_friends_analy.py[line:72] ERROR readDb:数据执行失败:relation "wx_friend_list" does not exist
+LINE 1: SELECT COUNT(1) FROM wx_friend_list LIMIT 1;
+                             ^
+
